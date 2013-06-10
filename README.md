@@ -48,3 +48,4 @@ Il faut éditer le fichier range, et connaitre le type mime du format de fichier
 
 file -bi [FICHIER]
 
+
