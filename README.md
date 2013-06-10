@@ -1,5 +1,5 @@
 Range
------
+=====
 
 Renommez-le "range" et faites un "sudo cp rang /usr/local/bin" afin de l'installer. Vous pouvez maintenant vous en servir dans un terminal normalement.
 
